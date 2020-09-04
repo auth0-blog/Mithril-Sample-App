@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "auth0-js": "^9.3.1",
-    "mithril": "^1.1.6"
+    "mithril": "^1.1.7"
   },
   "scripts": {
     "start": "webpack-dev-server --open",
